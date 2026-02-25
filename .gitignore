@@ -1,0 +1,12 @@
+.Rhistory
+.RData
+.Rproj.user/
+.quarto/
+*_cache/
+*_files/
+.DS_Store
+
+data/
+*.csv
+*.xlsx
+*.rds
